@@ -4,7 +4,7 @@
 
 This project analyzes pharmaceutical sales data using Python, Pandas, and Matplotlib. The objective is to explore historical drug sales data, identify trends, compare sales performance across drug categories and brands, and visualize insights through charts and graphs.
 
-Project URL: [https://roadmap.sh/projects/analysing-pharmaceutical-sales-data](https://roadmap.sh/projects/analysing-pharmaceutical-sales-data)
+Project URL: https://roadmap.sh/projects/pharmaceutical-sales-data
 
 ---
 
